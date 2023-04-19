@@ -162,3 +162,35 @@ hr {
     border-radius: 50%;
     
 }
+#one {
+    
+    text-align: center;
+    
+}
+#two {
+  
+
+    text-align: center;
+    
+}
+#three{
+    
+    text-align: center;
+
+}
+#four {
+
+    text-align: center;
+}
+#five{
+    
+    text-align: center;
+}
+#times{
+    background-image: url('../images/dublin-city.webp') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+}
