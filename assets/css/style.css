@@ -245,6 +245,13 @@ footer {
     hr {
         display: none;
     }
+    #times > div {
+        width: 100%;
+        clear: both;
+        float: left;
+        padding: 0;
+
+    }
 
 }
 /* for media screen sizes 950px and down */
@@ -278,6 +285,7 @@ footer {
         text-align: center;
         padding: 0 20px;
     } 
+
 }
 
 
